@@ -11,7 +11,6 @@ describe('Login', () => {
 
         cy.visit('https://www.saucedemo.com/v1/')
 
-
     })
 
     it('adicionar itens no carrinho', () => {
